@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет 👋 Я Animeshnik94
+# Привет 👋 Я Артур
 
 **Строю Telegram-ботов и продукты с приёмом крипто-платежей.**
 Python/aiogram, Go, Flutter — от идеи до задеплоенного бота.
