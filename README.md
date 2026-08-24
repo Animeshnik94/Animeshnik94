@@ -2,8 +2,9 @@
 
 # Привет 👋 Я Артур
 
-**Строю Telegram-ботов и продукты с приёмом крипто-платежей.**
-Python/aiogram, Go, Flutter — от идеи до задеплоенного бота.
+**Делаю Telegram-ботов, Telegram Mini Apps, мобильные приложения, сайты и
+интернет-магазины — в том числе с приёмом крипто-платежей.**
+Python/aiogram, Go, Flutter, TypeScript — от идеи до задеплоенного продукта.
 
 Студия: [Ledgerworks](https://github.com/Animeshnik94/Ledgerworks) · Связь: [@HermanHesse1879](https://t.me/HermanHesse1879)
 
